@@ -22,7 +22,7 @@ body{
 	font-family: "Lato";
 	margin: 0;
 
-	height: 80vh;
+	height: 60vh;
   background-image: url(images/IMG_5248.JPG); 
   background-repeat: no-repeat;
 	background-size: cover;
@@ -118,7 +118,7 @@ html {
 	
 }
 
-.jumbotron{
+/* .jumbotron{
 	height: 80vh;
   background-image: url(images/table-tennis.jpg) ;
   background-repeat: no-repeat;
@@ -127,7 +127,29 @@ html {
 	background-color: white; 
 	background-attachment: fixed;
 
+} */
+
+
+
+
+
+.jumbotron{
+  height: 30vh;
+  background-image: url(images/table_tennis.gif);
+  background-repeat: no-repeat;
+  /* background-size: align-self: auto; */
+  background-size: 1000px;
+	background-position: center;
+	background-color: rgb(241, 154, 154); 
+	background-attachment: fixed;
+
 }
+
+
+
+
+
+
 
 .jumbotron_1{
 	height: 80vh;
