@@ -118,20 +118,6 @@ html {
 	
 }
 
-/* .jumbotron{
-	height: 80vh;
-  background-image: url(images/table-tennis.jpg) ;
-  background-repeat: no-repeat;
-	background-size: align-self: auto;;
-	background-position: center;
-	background-color: white; 
-	background-attachment: fixed;
-
-} */
-
-
-
-
 
 .jumbotron{
   height: 30vh;
@@ -146,31 +132,4 @@ html {
 }
 
 
-
-
-
-
-
-.jumbotron_1{
-	height: 80vh;
-  background-image: url(images/animated_badminton.gif);
-  background-repeat: no-repeat;
-	background-size: align-self: auto;;
-	background-position: center;
-	background-color: white; 
-	background-attachment: fixed;
-
-}
-
-
-.jumbotron_2{
-	height: 80vh;
-  background-image: url(images/IMG_7606.JPG);
-  background-repeat: no-repeat;
-	background-size: align-self: auto;;
-	background-position: center;
-	background-color: white; 
-	background-attachment: fixed;
-
-}
 
