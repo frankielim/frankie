@@ -120,11 +120,24 @@ html {
 
 
 .jumbotron{
-  height: 30vh;
+  height: 35vh;
   background-image: url(images/table_tennis.gif);
   background-repeat: no-repeat;
   /* background-size: align-self: auto; */
-  background-size: 1000px;
+  background-size: 900px;
+	background-position: center;
+	background-color: rgb(241, 154, 154); 
+	background-attachment: fixed;
+
+}
+
+
+.jumbotron_1{
+  height: 30vh;
+  background-image: url(images/IMG_7606.JPG);
+  background-repeat: no-repeat;
+  /* background-size: align-self: auto; */
+  background-size: 900px;
 	background-position: center;
 	background-color: rgb(241, 154, 154); 
 	background-attachment: fixed;
@@ -133,3 +146,14 @@ html {
 
 
 
+
+.jumbotron_2{
+	height: 70vh;
+  background-image: url(images/IMG_7606.jpg);
+  background-repeat: no-repeat;
+	background-size: align-self: auto;;
+	background-position: center;
+	background-color: white; 
+	background-attachment: fixed;
+
+}
